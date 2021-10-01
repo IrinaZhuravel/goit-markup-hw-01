@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Задание № 1 по html (Студия)
+https://irinazhuravel.github.io/goit-markup-hw-01/
